@@ -1,0 +1,148 @@
+$   blank pattern before each nonblank pattern; comment describes the following pattern; 9 corners/massbottom 3/0 tees
+** **   ** 
+*  *    * 
+
+
+** **   ** 
+*  *    *
+
+
+** **   ** 
+*  *    *
+$  9 corners/massbottom 3/0 tees
+** **   ** 
+ *  *    *
+
+
+** **   ** 
+ *  *    *
+
+
+** **   ** 
+ *  *    *
+$  9 corners/massbottom 6/0 tees
+*  *    * 
+** **   **
+   
+
+*  *    * 
+** **   **
+
+   
+*  *    * 
+** **   **
+$  9 corners/massbottom 6/0 tees
+ *  *    *
+** **   **
+   
+
+ *  *    *
+** **   **
+
+   
+ *  *    *
+** **   **
+$  0 corners/massbottom 3/9 tees
+**********
+ *  *   *
+
+**********
+ *  *   *
+
+
+
+**********
+ *  *   *
+$  0 corners/massbottom 10/9 tees
+ *  *   *
+**********
+
+
+ *  *   *
+**********
+
+
+ *  *   *
+**********
+$  0 corners/massbottom 3/9 tees
+*   *   *
+**  **  **
+*   *   *
+*   *   *
+**  **  **
+*   *   *
+
+*   *   *
+**  **  **
+*   *   *
+$  0 corners/massbottom 3/9 tees
+ *   *   *
+**  **  **
+ *   *   *
+ *   *   *
+**  **  **
+ *   *   *
+
+ *   *   *
+**  **  **
+ *   *   *
+$ 0 corners/massbottom 6/0 tees
+*** *** **
+**   ** **
+        *
+*   **   *
+**  **  **
+**   *  **
+
+*   *   **
+** **   **
+** **   **
+$ 0 corners/massbottom 3/0 tees
+*  *   *
+ ** **  ** 
+ *  *   * 
+
+     *   
+ ** **  ** 
+**  *   **
+*  *   *
+ ** **  ** 
+ *  *   *
+$ 0 corners/massbottom 6/0 tees
+  *  *   *
+** **  ** 
+ *  *   *
+
+  *  *   *
+** **  ** 
+ *  *   *
+
+  *  *   *
+** **  ** 
+$ 0 corners/massbottom 2/0 tees
+**  ** ***
+**  **  **
+*    *
+        **
+       ***
+*** **  *
+**  *** **
+ *      **
+**
+**
+$0 corners/massbottom 3/0 tees
+ * **   *
+*** **  **
+ *  *  **
+
+ ** *
+** **
+ *  **
+$ 0 corners/massbottom 2/0 tees
+  * *  
+*** ***
+ *   *
+
+ *  * 
+******
+*    *

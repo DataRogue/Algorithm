@@ -1,0 +1,47 @@
+$                       // test that $ is found whereever it occurs
+*$
+ *$
+  *$
+   *$
+    *$
+     *$
+      *$
+       *$
+        *$
+         *$             //  $ is eleventh char and should be ignored
+**********
+$                       // this $ should be seen; next tests are for short lines
+*
+ *
+  *
+   *
+    *
+     *
+      *
+       *
+        *
+         *
+$                     // blank pattern; next test is for long lines
+        ******
+       *******
+      ********
+     *********
+    **********
+   ***********
+  ************
+   ***********
+    **********
+     *********
+**********             // a full pattern
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********
+**********             // check that the old pattern is fully replaced when $ is seen
+    *
+    *
+    *$
